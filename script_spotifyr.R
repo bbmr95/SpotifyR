@@ -8,8 +8,6 @@ Sys.setenv(SPOTIFY_CLIENT_ID = '3f8718cf44964c5e88b5058c828e4626')
 Sys.setenv(SPOTIFY_CLIENT_SECRET = '89a1e4e2566944668bb90fed660bc5ab')
 access_token <- get_spotify_access_token()
 
-
-
 fn_id_artists = function(vec) {
   pre_base_artist_0 = c()
   for (x in vec) {
@@ -73,7 +71,6 @@ lista_artistas = fn_id_artists('Anti Rudo Records')
 lista_albums = fn_id_albums(lista_artistas)
 
 lista_tracks = fn_id_tracks(lista_albums)
-
 
 
 # Base de artistas
