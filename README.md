@@ -11,5 +11,5 @@ With the motivation of curiosity, then i think "if i have daily register of popu
 for them, right?". And with the hipotesis of thinking that this is correct, i'm currently working on the daily automation of the DB.
 
 <center> 
-  <img src='https://www.giastinchi.com/assets/work-in-progress.jpg'>
+  <img src='https://www.giastinchi.com/assets/work-in-progress.jpg'/>
 </center>
