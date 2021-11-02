@@ -10,4 +10,4 @@ data bases with the most importants features (for me) extract from some of the m
 With the motivation of curiosity, then i think "if i have daily register of popularity and followers from any artists profile, is this data would be valued
 for them, right?". And with the hipotesis of thinking that this is correct, i'm currently working on the daily automation of the DB.
 
-<img ref = 'https://www.giastinchi.com/assets/work-in-progress.jpg'>
+<img src='https://www.giastinchi.com/assets/work-in-progress.jpg'>
