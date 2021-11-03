@@ -1,5 +1,6 @@
 # SpotifyR
-Armando bases de datos utilizando el API de Spotify
+
+<img src='C:\Users\mosqu\OneDrive\Escritorio\RSTUDIO\github\spotifyr\logo_spotifyr.png>
 
 
 What does Spotify mean when it talks about popularity popularity level? What is the trend of daily followers of our favourites bands/artists?
