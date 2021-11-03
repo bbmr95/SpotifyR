@@ -1,6 +1,6 @@
 # SpotifyR
 
-<img src='https://imgur.com/iBvyd3g'>
+<a href="https://imgur.com/iBvyd3g"><img src="https://i.imgur.com/iBvyd3g.png" title="source: imgur.com" /></a>
 
 
 What does Spotify mean when it talks about popularity popularity level? What is the trend of daily followers of our favourites bands/artists?
