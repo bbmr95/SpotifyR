@@ -1,16 +1,34 @@
 # SpotifyR
 
 <a href="https://imgur.com/iBvyd3g"><img src="https://i.imgur.com/iBvyd3g.png" title="source: imgur.com" /></a>
+```diff
+¿A que se refiere Spotify cuando habla de "popularidad"?
+```
+Este trabajo consiste en el desarrollo de bases de datos que recogen la información más importante que ofrecen las funciones del API de Spotify referentes a datos sobre artistas, álbumes y canciones (tracks). Actualmente el proyecto sigue en desarrollo en su etapa de <b>automatización</b></p>
 
-<b>¿A que se refiere Spotify cuando habla de "popularidad"? ¿Cuál es la tendencia diaria de seguiores mis artistas favoritos?</b>
+<h2>Investigación y observación</h2>
+<p>"spotifyr" contiene un conjunto de funciones derivadas de las funciones que tiene el API de Spotify en su propia página para desarrolladores, solamente que las vuelve utilizables bajo el lenguaje R. El primer paso para poder descubrir el potencial que tiene esta información fue revisar todas las funciones listadas en la documentación del paquete</p>
 
-Estás son algunas de las preguntas que me surgieron al explorar por primera vez lo que es el API de Spotify por medio del paquete "spotifyr", el cual conecta al API al interfaz de Rstudio. De hecho, es la primera vez que logro acceder a información de este tipo, lo cual combinado con el hecho de que se trata de información referente a mi pasión más grande [la música] 
+<b><a href="https://cran.r-project.org/web/packages/spotifyr/spotifyr.pdf">Documentación "spotifyr"</a></b>
 
-He venido desarrollando un script que logra consolidar los campos más importantes de las funciones que ofrece el paquete "spotifyr", el cual conecta con el API de Spotify por medio de Rstudio, en una base de datos que se actualiza de manera diaria. El objetivo puntual de este proyecto es lograr la automatización del registro de información y la adaptación del script para poder obtener la información de cualquier artista.
+<p>
+De este conjunto de funciones, 5 muestran información que catalogo de alta relevancia por el tipo de información que almacena
+</p>
 
-<h2>
+<b>get_artists():</b> Información de artistas (cantidad de seguidores, nivel de popularidad...) <br>
+<b>get_albums():</b> Información de albums (cantidad de tracks, tipos de álbumes, nivel de popularidad, fecha de lanzamiento...)<br>
+<b>get_tracks():</b> Información de canciones [tracks] (duración en milisegundos, nivel de popularidad...)<br>
+<b>get_track_audio_features():</b> Información relacionada <b>características auditivas</b> de tracks (danzabilidad, energía, acusticidad, tempo, etc)<br>
+<b>get_track_audio_analysis():</b> Información sobre <b>secciones</b> determinadas por algoritmos de Spotify (secciones, bars, beats, segmentos)<br>
+
+<p></p>
+
 
 
 <center> 
   <img src='https://www.giastinchi.com/assets/work-in-progress.jpg' alt="centered image">
 </center>
+  
+  
+
+
