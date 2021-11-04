@@ -21,7 +21,10 @@ De este conjunto de funciones, 5 muestran información que catalogo de alta rele
 <b>get_track_audio_features():</b> Información relacionada <b>características auditivas</b> de tracks (danzabilidad, energía, acusticidad, tempo, etc)<br>
 <b>get_track_audio_analysis():</b> Información sobre <b>secciones</b> determinadas por algoritmos de Spotify (secciones, bars, beats, segmentos)<br>
 
-<p></p>
+<h2>Ordenamiento y estructura de información</h2>
+
+
+<img src="https://i.imgur.com/pKW8y63.png"/>
 
 
 
