@@ -2,14 +2,14 @@
 
 <a href="https://imgur.com/iBvyd3g"><img src="https://i.imgur.com/iBvyd3g.png" title="source: imgur.com" /></a>
 
+<b>¿A que se refiere Spotify cuando habla de "popularidad"? ¿Cuál es la tendencia diaria de seguiores mis artistas favoritos?</b>
 
-What does Spotify mean when it talks about popularity popularity level? What is the trend of daily followers of our favourites bands/artists?
+Estás son algunas de las preguntas que me surgieron al explorar por primera vez lo que es el API de Spotify por medio del paquete "spotifyr", el cual conecta al API al interfaz de Rstudio. De hecho, es la primera vez que logro acceder a información de este tipo, lo cual combinado con el hecho de que se trata de información referente a mi pasión más grande [la música] 
 
-These are the questions i have when i found the "spotifyr" package and exploring through their functions. And, as a Data Analyst, i couldn't do more than exploring and structuring
-data bases with the most importants features (for me) extract from some of the most interesting functions in the API i found.
+He venido desarrollando un script que logra consolidar los campos más importantes de las funciones que ofrece el paquete "spotifyr", el cual conecta con el API de Spotify por medio de Rstudio, en una base de datos que se actualiza de manera diaria. El objetivo puntual de este proyecto es lograr la automatización del registro de información y la adaptación del script para poder obtener la información de cualquier artista.
 
-With the motivation of curiosity, then i think "if i have daily register of popularity and followers from any artists profile, is this data would be valued
-for them, right?". And with the hipotesis of thinking that this is correct, i'm currently working on the daily automation of the DB.
+<h2>
+
 
 <center> 
   <img src='https://www.giastinchi.com/assets/work-in-progress.jpg' alt="centered image">
