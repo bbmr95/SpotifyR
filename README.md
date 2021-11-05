@@ -25,7 +25,12 @@ De este conjunto de funciones, 5 muestran información que catalogo de alta rele
 
 
 <img src="https://i.imgur.com/pKW8y63.png"/>
+Este es el esquema que quedaría recogiendo la información más importante obtenida de las funciones <b>get_artists(), get_albums(), get_tracks() y get_track_audio_features().</b> Las variables "key" serían los ids, los cuales también se utilizan para poder solicitar la información con cada una de estas funciones.
 
+<h3>Blackbox de funciones</h3>
+Para entender las funciones vamos a utilizar inputs de ejemplo. En este caso, utilizaremos la información de cual sería mi banda favorita: <b>Pink Floyd</b>. Pink Floyd tiene como código URI el valor '0k17h0D3J5VfsdmQ1iZtE9', el cual se puede obtener copiándolo desde el URL de su perfil en Spotify.
+
+<img src="https://i.imgur.com/YbN4WZH.png"/>
 
 
 <center> 
