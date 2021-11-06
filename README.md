@@ -32,11 +32,9 @@ Para entender las funciones vamos a utilizar inputs de ejemplo. En este caso, ut
 
 <img src="https://i.imgur.com/YbN4WZH.png"/>
 
+El URI se coloca como input para la función get_artists() y resulta en la información referida al artista correspondiente al ID:
 
-<center> 
-  <img src='https://www.giastinchi.com/assets/work-in-progress.jpg' alt="centered image">
-</center>
-  
+<img src="https://i.imgur.com/ZZC78mz.png"/>
   
 
 
